@@ -1,4 +1,4 @@
 try test
-go
 test
+go
 end
