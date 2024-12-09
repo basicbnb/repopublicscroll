@@ -1,4 +1,4 @@
 Hello,
-I am Duboy
+name Duboy
 i like crypto 
 and more
