@@ -1,3 +1,3 @@
 Hello,
 name Duboy
-i like crypto 
+i am in crypto 
